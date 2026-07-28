@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-07-28T18:00:00Z",
+  "rules": [
+    {
+      "ruleType": "EXACT_ALLOW",
+      "normalizedValue": "+493411112222",
+      "action": "ALLOW",
+      "enabled": true,
+      "note": "Beispiel für persönliche Freigabe"
+    },
+    {
+      "ruleType": "PREFIX_BLOCK",
+      "normalizedValue": "+49341999",
+      "action": "BLOCK",
+      "enabled": true,
+      "note": "Beispielpräfix"
+    }
+  ]
+}

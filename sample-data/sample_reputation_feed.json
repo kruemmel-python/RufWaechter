@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-07-28T18:00:00Z",
+  "source": {
+    "name": "Lokaler Testfeed",
+    "version": "1.0.0"
+  },
+  "entries": [
+    {
+      "number": "+493411234567",
+      "spamScore": 92,
+      "confidence": 88,
+      "category": "FRAUD",
+      "reportCount": 41,
+      "positiveCount": 2,
+      "sourceCount": 4,
+      "lastUpdated": "2026-07-27T12:00:00Z",
+      "expiresAt": "2027-08-27T12:00:00Z"
+    },
+    {
+      "number": "+493412345678",
+      "spamScore": 12,
+      "confidence": 80,
+      "category": "LEGITIMATE_BUSINESS",
+      "reportCount": 1,
+      "positiveCount": 20,
+      "sourceCount": 2,
+      "lastUpdated": "2026-07-27T12:00:00Z",
+      "expiresAt": "2027-08-27T12:00:00Z"
+    }
+  ]
+}
