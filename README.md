@@ -1,4 +1,5 @@
 # RufWächter
+<img width="2752" height="1536" alt="rufwaechter" src="https://github.com/user-attachments/assets/f8023301-6e05-4816-b044-0b20d18518d5" />
 
 RufWächter ist eine native Android-App zur lokalen Bewertung eingehender Anrufe. Sie verwendet Androids offizielle `CallScreeningService`-Schnittstelle, persönliche Regeln, lokale Reputationsdaten, Carrier-Verifikation und ein deterministisches Scoring. Die Kernfunktion funktioniert ohne Konto und ohne Netzwerk.
 
